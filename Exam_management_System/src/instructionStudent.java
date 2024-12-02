@@ -8,7 +8,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author saketlad
+ * @author atharvachavhan
  */
 public class instructionStudent extends javax.swing.JFrame {
     public String rollNo;

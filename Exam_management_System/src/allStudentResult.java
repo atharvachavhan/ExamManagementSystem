@@ -12,7 +12,7 @@ import net.proteanit.sql.DbUtils;
 
 /**
  *
- * @author saketlad
+ * @author atharvachavhan
  */
 public class allStudentResult extends javax.swing.JFrame {
 

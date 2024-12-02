@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author saketlad
+ * @author atharvachavhan
  */
 public class deleteQuestion extends javax.swing.JFrame {
 

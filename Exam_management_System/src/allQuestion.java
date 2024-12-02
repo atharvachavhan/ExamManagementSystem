@@ -9,7 +9,7 @@ import net.proteanit.sql.DbUtils;
 
 /**
  *
- * @author saketlad
+ * @author atharvachavhan
  */
 public class allQuestion extends javax.swing.JFrame {
 

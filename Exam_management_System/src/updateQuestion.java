@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author saketlad
+ * @author atharvachavhan
  */
 public class updateQuestion extends javax.swing.JFrame {
 

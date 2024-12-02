@@ -14,7 +14,7 @@ import java.awt.Component;
 
 /**
  *
- * @author saketlad
+ * @author atharvachavhan
  */
 public class quizExamStudent extends javax.swing.JFrame {
     public String questionID="1";

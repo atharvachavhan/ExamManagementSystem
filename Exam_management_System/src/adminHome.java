@@ -7,7 +7,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author achintyachavan
+ * @author atharvachavhan
  */
 public class adminHome extends javax.swing.JFrame {
     public static int open = 0;

@@ -6,7 +6,7 @@ package exam_management_system;
 
 /**
  *
- * @author saketlad
+ * @author atharvachavhan
  */
 public class Exam_management_System {
 

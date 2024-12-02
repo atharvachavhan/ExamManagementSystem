@@ -7,7 +7,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author achintyaChavan
+ * @author atharvachavhan
  */
 public class loginAdmin extends javax.swing.JFrame {
 

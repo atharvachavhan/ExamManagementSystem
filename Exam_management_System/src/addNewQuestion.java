@@ -9,7 +9,7 @@ import javax.swing.JFrame;
 
 /**
  *
- * @author saketlad
+ * @author atharvachavhan
  */
 public class addNewQuestion extends javax.swing.JFrame {
 
@@ -21,7 +21,7 @@ public class addNewQuestion extends javax.swing.JFrame {
         try{
             Connection con = ConnectionProvider.getCon();
             Statement st = con.createStatement(ResultSet.TYPE_SCROLL_INSENSITIVE, ResultSet.CONCUR_READ_ONLY);
-            ResultSet rs = st.executeQuery("SELECT COUNT(id) FROM question");
+            ResultSet rs = st.executeQuery("SELECT COUNT(id) FROM questions");
             if(rs.first()){
                 int id = rs.getInt(1);
                 id = id+1;
